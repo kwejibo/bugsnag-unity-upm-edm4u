@@ -1,11 +1,11 @@
 Bugsnag SDK for Unity Including EDM4U Support
 ===========
 
-This is the UPM package for the Bugsnag SDK for Unity including EDM4U support.
+This is the UPM package for the Bugsnag SDK for Unity Including EDM4U Support.
 
 Install it via `UPM`:
 ```
-https://github.com/bugsnag/bugsnag-unity-upm-edm4u.git#v6.3.0
+https://github.com/bugsnag/bugsnag-unity-upm-edm4u.git#v6.3.1
 ```
 
 ## Source code
